@@ -11,8 +11,8 @@ Mobile bridges have been used for a broad range of applications including milita
 * Shirley J. Dyke, **Chul Min Yeum**, Christian Silva, and Jeff Demo. “Applications of computer vision in structural health monitoring.” (a keynote speech) Proceedings of the 7th Structural Health Monitoring and Intelligent Infrastructure, Italy, July1-4, 2015. 
 
 ## Source Code & Data
-* All source code and **lab-scale experiment data** are released in **my Github repository**  [[**Link**]](https://github.com/chulminy/Acceleration_Based_Automated_Vehicle). 
-* You can download original images and results from this link [[**Link**]](). 
+* All source codes are released in this Github repository
+* Experiment data can be downloaded from this [**[link]**]()
 * If you use the codes and data for you publication, **please cite my paper(s).**
 
 
